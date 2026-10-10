@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "scene": {
+            "type": "object",
+            "properties": {},
+            "required": []
+        }
+    },
+    "required": ["scene"]
+}
